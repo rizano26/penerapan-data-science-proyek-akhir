@@ -86,6 +86,7 @@ Probabilitas Bertahan: 21.28%
 ```
 
 Sistem ini juga dapat digunakan sebagai alat onboarding untuk mengidentifikasi mahasiswa baru yang berisiko tinggi dan segera diberi bimbingan khusus.
+
 Berikut adalah dashboard yang bisa diakses secara online : [Dashboard](https://penerapan-data-science-proyek-akhir-m99gluj6a9eqcqitxeodjm.streamlit.app/)
 
 ## Conclusion
